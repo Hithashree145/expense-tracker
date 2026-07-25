@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "date": "25-07-2026",
+        "category": "food",
+        "description": "chips",
+        "amount": 348.0
+    },
+    {
+        "id": 1,
+        "date": "25-07-2026",
+        "category": "food",
+        "description": "choco",
+        "amount": 540.0
+    }
+]
